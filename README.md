@@ -1,4 +1,4 @@
-# pumpskin_lica
+# Pumpskin Lica
 
 Flutter project.
 
