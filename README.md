@@ -1,16 +1,12 @@
 # pumpskin_lica
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install package
+- Install IDE Visual Studio Code or Android Studio
+- Install Flutter Package version 3.7.10 and Dart Package version 2.19.6
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Switch branch
+- Please switch with branch main_dev to develop
